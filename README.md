@@ -2,7 +2,7 @@
 Welcome to my public portfolio for Telling Stories with Data class at Carnegie Mellon University.
 
 # About me
-Hi everyone! My name is Shun-Sho Carmack (she/her/hers) and I am a second year candidate for the Master of Arts Management program at Carnegie Mellon Univeresity. I also have a BFA in Studio Arts, a BA in Journalism & Communications, and a MS in Library and Information Science. 
+Hi everyone! My name is Shun-Sho Carmack (she/her/hers) and I am a second year candidate for the Master of Arts Management program in Heinz College at Carnegie Mellon Univeresity. I also have a BFA in Studio Arts, a BA in Journalism & Communications, and a MS in Library and Information Science. 
 
 Currently, I am a Program Manager for Arts Greenhouse, a small arts & humanitites initiative that provides programming to underserved and underresourced 5th-9th grade students in the Pittsburgh region.
 
