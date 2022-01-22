@@ -1,5 +1,5 @@
 # carmack-portfolio
-My public portfolio for Telling Stories with Data at Carnegie Mellon University
+Welcome to my public portfolio for Telling Stories with Data class at Carnegie Mellon University.
 
 # About me
 Hi everyone! My name is Shun-Sho Carmack (she/her/hers) and I am a second year candidate for the Master of Arts Management program at Carnegie Mellon Univeresity. I also have a BFA in Studio Arts, a BA in Journalism & Communications, and a MS in Library and Information Science. 
