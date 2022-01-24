@@ -16,6 +16,7 @@ This course will be particularly helpful for my post-graduation plans as an assi
 # Portfolio
 Coming soon -- stay posted!
 
-# Final Project, Part 1
-# Final Project, Part 2
-# Final Project, Part 3
+## Final Project
+### Part 1
+### Part 2
+### Part 3
