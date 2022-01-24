@@ -14,7 +14,9 @@ Despite my background, my data visualization skills are woefully poor and I've s
 This course will be particularly helpful for my post-graduation plans as an assistant director dealing with community engagement and educational outreach. When the announcement becomes public, I look forward to sharing the official title and organization with you all.
 
 # Portfolio
-Coming soon -- stay posted!
+This section is comprised of two sections: General Assignments and Final Project. Each will have additional headings to delineate each project. Coming soon -- stay posted!
+
+## General Assignments
 
 ## Final Project
 ### Part 1
