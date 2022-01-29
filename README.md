@@ -17,6 +17,9 @@ This course will be particularly helpful for my post-graduation plans as an assi
 This section is comprised of two sections: General Assignments and Final Project. Each will have additional headings to delineate each assignment or aspect of different projects. **More coming soon -- stay posted!**
 
 ## General Assignments
+### Visualizing Government Debt
+
+<iframe src="https://data.oecd.org/chart/6Bgn" width="700" height="525" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6Bgn" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2020</a></iframe>
 
 ## Final Project
 ### Part 1
