@@ -26,6 +26,10 @@ Following this, I downloaded the data excel file and used Flourish to create my 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/8556661"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+I wanted to see if there was a way to make it more useful to viewers wanting to compare data between countries within a single year. But, I also wanted to make sure that the data for multiple years was accessible. I chose to create multiple charts that were viewable by using a dropdown menu to select years. Again, I kept the color selection clean so as to emphasize any text that the viewer my hover over.
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/8557980"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 ## Final Project
 ### Part 1
 ### Part 2
