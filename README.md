@@ -19,6 +19,7 @@ This section is comprised of two sections: General Assignments and Final Project
 ## General Assignments
 ### Visualizing Government Debt
 For this project, I looked at General Government Debt data available through OECD. I initially viewed the information through the portal, seeing a bar graph that visualized a specific year of data.
+
 <iframe src="https://data.oecd.org/chart/6Bgn" width="700" height="525" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6Bgn" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2020</a></iframe>
 
 Following this, I downloaded the data excel file and used Flourish to create my own visualization. Creating a sparkline inspired version, I was able to visualize the data in a new format with some specific design choices. I created a heading that was more descriptive and had accompanying text that provided meanning and context to the data, including definitions and why the data points were important or relavent to the topic. Additionally, I chose to implement the color green since the conversation revolves around money. In the United States, there is a frequent correlation between money and the color green.
