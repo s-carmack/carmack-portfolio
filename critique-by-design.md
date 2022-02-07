@@ -70,7 +70,7 @@ At the tope of the redesigned visualizations, I had an overall header for the se
 [Region by Region World Heritage Properties (1).pdf](https://github.com/s-carmack/carmack-portfolio/files/8015886/Region.by.Region.World.Heritage.Properties.1.pdf)
 
 
-Each of the individual visualzations can be seen in more detail below.
+Each of the individual visualizations can be seen in more detail below.
 
 ##### Visualization 1 Redesign
 
@@ -93,9 +93,19 @@ Respondant 1 | Female | 25-35 | Systems Engineer
 Respondant 2 | Male | 25-35 | PhD Student
 Respondant 3 | Female | 25-35 | Librarian
 
-Each person was asked a series of six open-ended questions. Responses were gathered using email, Marco Polo, and in-person interviews.
+Each person was asked a series of six open-ended questions:
+1. Can you tell me what these visualizations are about?
+2. Can you describe what each graph is telling you?
+3. Did you find anything confusing or unclear? If yes, what did you notice?
+4. Did you find yourself wanting more of less of something?
+5. Did the different graphs work independently and together? If not, what did you notice?
+6. Any other thoughts and suggestions?
+
+Responses were gathered using email, Marco Polo, and in-person interviews.
 
 After analyzing all three, the primary feedback for change revolved around the **Visualization 1 Redesign** and then the data itself.
+
+Respondant 1 said:
 
 Additional feedback was generally positive. The most common notes regarded positive reactions to the color schemes and their coordination. There was also a positive response for the font selection and progression of the visualizations.
 
