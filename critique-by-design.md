@@ -83,7 +83,9 @@ Respondant 3 | Female | 25-35 | Librarian
 
 Each person was asked a series of six open-ended questions. Responses were gathered using email, Marco Polo, and in-person interviews.
 
-After analyzing all three, the primary feedback revolved around **Visualization 1 Redesign** and the data itself.
+After analyzing all three, the primary feedback for change revolved around the **Visualization 1 Redesign** and then the data itself.
+
+Additional feedback was generally positive. The most common notes regarded positive reactions to the color schemes and their coordination. There was also a positive response for the font selection and progression of the visualizations.
 
 
 ### Step 5 - Build Your Solution
