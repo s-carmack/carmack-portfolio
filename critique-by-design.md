@@ -23,7 +23,8 @@ After exploring the internet, I stumbled upon a webpage filled with data visuali
 
 
 ### Step 2 - Critique the Visualization
-**Title:** Number of World Heritage Properties by region </p>
+**Title:** Number of World Heritage Properties by region
+
 **Link:** [UNESCO World Heritage Centre - World Heritage List Statistics](https://whc.unesco.org/en/list/stat/#d1)
 
 **Critique by the Numbers**
@@ -83,3 +84,13 @@ Respondant 3 | Female | 25-35 | Librarian
 Each person was asked a series of six open-ended questions. Responses were gathered using email, Marco Polo, and in-person interviews.
 
 After analyzing all three, the primary feedback revolved around **Visualization 1 Redesign** and the data itself.
+
+
+### Step 5 - Build Your Solution
+To begin redesigning, I started with trying to figure out which tools we've used that would support my basic initial designs. I ended up using both Flourish and Tableau for building the different visualizations with varying success.
+
+##### Visualization 1 Redesign 2.0
+<div class="flourish-embed flourish-chart" data-src="visualisation/8620996"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+##### Visualization 2 Redisgn 2.0
+
