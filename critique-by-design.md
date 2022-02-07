@@ -27,20 +27,20 @@ After exploring the internet, I stumbled upon a webpage filled with data visuali
 **Link:** [UNESCO World Heritage Centre - World Heritage List Statistics](https://whc.unesco.org/en/list/stat/#d1)
 
 **Critique by the Numbers**
-| Category         | Score     | # In stock |
-|--------------|-----------|------------|
-| Juicy Apples | 1.99      | *7*        |
-| Bananas      | **1.89**  | 5234       |
+| Category     | Score     | # In stock |
+|--------------|---------|------------|
+| Usefulness | 8     | *7*        |
+| Completeness      | 5  | 5234       |
 
 Category | Score
----------|-------
-Usefulness | 8
-Completeness | 5
-Perceptibility | 5
-Truthfulness | 10
-Intuitiveness | 6
-Aesthetics | 6
-Engagement | 6
+---------|------- |
+Usefulness | 8 |
+Completeness | 5 |
+Perceptibility | 5 |
+Truthfulness | 10 |
+Intuitiveness | 6 |
+Aesthetics | 6 |
+Engagement | 6 |
 
 
 ##### Overall observations about the data visualization
