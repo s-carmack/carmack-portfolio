@@ -27,10 +27,6 @@ After exploring the internet, I stumbled upon a webpage filled with data visuali
 **Link:** [UNESCO World Heritage Centre - World Heritage List Statistics](https://whc.unesco.org/en/list/stat/#d1)
 
 **Critique by the Numbers**
-| Category     | Score     | # In stock |
-|--------------|---------|------------|
-| Usefulness | 8     | *7*        |
-| Completeness      | 5  | 5234       |
 
 Category | Score
 ---------|------- |
