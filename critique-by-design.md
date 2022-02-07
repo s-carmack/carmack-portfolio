@@ -52,6 +52,11 @@ For this step of the process, I initially began with paper and markers but found
 
 With Canva, I created wireframes for three different charts to mirror the three that were provided by UNESCO. I took each visualization individually while trying to be aware of its connection to my other two visualizations.
 
+At the tope of the redesigned visualizations, I had an overall header for the set with a subtitle and then the three visualizations followed. The entire piece that I sent to my respondants can be found as a pdf here:
+[Region by Region World Heritage Properties (1).pdf](https://github.com/s-carmack/carmack-portfolio/files/8015886/Region.by.Region.World.Heritage.Properties.1.pdf)
+
+
+Each of the individual visualzations can be seen in more detail below.
 
 ##### Visualization 1 Redesign
 
@@ -64,3 +69,5 @@ With Canva, I created wireframes for three different charts to mirror the three 
 ##### Visualization 3 Redesign
 
 ![V3 Redesign](https://user-images.githubusercontent.com/97995850/152803583-87d6df2f-62c0-4f22-8819-1ed147d35dcf.jpg)
+
+
