@@ -70,4 +70,13 @@ Each of the individual visualzations can be seen in more detail below.
 
 ![V3 Redesign](https://user-images.githubusercontent.com/97995850/152803583-87d6df2f-62c0-4f22-8819-1ed147d35dcf.jpg)
 
+### Step 4 - Test the Solution
+I shared my wireframes with three different people with the following demographics:
+
+ID | Identifying Gender | Age Range | Profession
+---|---|---|---
+Respondant 1 | Female | 25-35 | Systems Engineer
+Respondant 2 | Male | 25-35 | PhD Student
+Respondant 3 | Female | 25-35 | Librarian
+
 
