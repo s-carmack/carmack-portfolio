@@ -5,19 +5,19 @@
 After exploring the internet, I stumbled upon a webpage filled with data visualizations done by [UNESCO](https://en.unesco.org/) describing [world heritage statistics](https://whc.unesco.org/en/list/stat/#d1) around the globe. For this assignment, I decided to focus on the first set of statistics on the page entitled "Number of World Heritage Properties by region." This heading referred to a set of provided statistics used to create three different visualizations: a column graph, a pie chart, and a table. Based on this set, I was able to use the data found within the table and create an Excel spreadsheet with the information.
 
 
-Entire Data Visualization Set
+##### Entire Data Visualization Set
 
 <img width="682" alt="WHP_Region_Set" src="https://user-images.githubusercontent.com/97995850/152797139-ca6dab79-c53c-4ec7-95cc-dc6f4352dc91.png">
 
-Visualization 1 - Column Chart
+##### Visualization 1 - Column Chart
 
 <img width="328" alt="WHP_Region_BarChart" src="https://user-images.githubusercontent.com/97995850/152799816-0c8ed3f1-e741-438a-8426-96c1e842e988.png">
 
-Visualization 2 - Pie Chart
+##### Visualization 2 - Pie Chart
 
 <img width="324" alt="WHP_Region_PieChart" src="https://user-images.githubusercontent.com/97995850/152799845-d498ae45-569f-4bd8-a4ce-4f4a60d0222a.png">
 
-Visualization 3 - Table
+##### Visualization 3 - Table
 
 <img width="653" alt="WHP_Region_Table" src="https://user-images.githubusercontent.com/97995850/152799902-71ebc1ca-862c-4fda-8417-49a3ecbc1c46.png">
 
@@ -51,3 +51,16 @@ Overall, I found this method of evaluation faster to use but I was less comforta
 For this step of the process, I initially began with paper and markers but found I was struggling to make the process work well. So, I switched gears and began designing wireframes in Canva. This moved must faster and I was able to work with the information quickly. Although Canva does have an option to upload Excel spreadsheets for creating charts or graphs, I didn't do that this time. I manually worked with the data to get it to look how I wanted. In the next stage, I will be able to comment on what I found positive and negative about that process.
 
 With Canva, I created wireframes for three different charts to mirror the three that were provided by UNESCO. I took each visualization individually while trying to be aware of its connection to my other two visualizations.
+
+
+##### Visualization 1 Redesign
+
+![V1 Redesign](https://user-images.githubusercontent.com/97995850/152803464-b17aa728-d063-47af-9bd3-6651df17c98a.jpg)
+
+##### Visualization 2 Redesign
+
+![V2 Redesign](https://user-images.githubusercontent.com/97995850/152803533-6027f75a-4e5f-4991-a90d-d514f4d8d910.jpg)
+
+##### Visualization 3 Redesign
+
+![V3 Redesign](https://user-images.githubusercontent.com/97995850/152803583-87d6df2f-62c0-4f22-8819-1ed147d35dcf.jpg)
