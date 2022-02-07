@@ -5,7 +5,16 @@
 After exploring the internet, I stumbled upon a webpage filled with data visualizations done by [UNESCO](https://en.unesco.org/) describing [world heritage statistics](https://whc.unesco.org/en/list/stat/#d1) around the globe. For this assignment, I decided to focus on the first set of statistics on the page entitled "Number of World Heritage Properties by region." This heading referred to a set of provided statistics used to create three different visualizations: a column graph, a pie chart, and a table. Based on this set, I was able to use the data found within the table and create an Excel spreadsheet with the information.
 
 <img width="682" alt="WHP_Region_Set" src="https://user-images.githubusercontent.com/97995850/152797139-ca6dab79-c53c-4ec7-95cc-dc6f4352dc91.png">
+Entire Data Visualization Set
 
+<img width="328" alt="WHP_Region_BarChart" src="https://user-images.githubusercontent.com/97995850/152799816-0c8ed3f1-e741-438a-8426-96c1e842e988.png">
+Visualization 1 - Column Chart
+
+<img width="324" alt="WHP_Region_PieChart" src="https://user-images.githubusercontent.com/97995850/152799845-d498ae45-569f-4bd8-a4ce-4f4a60d0222a.png">
+Visualization 2 - Pie Chart
+
+<img width="653" alt="WHP_Region_Table" src="https://user-images.githubusercontent.com/97995850/152799902-71ebc1ca-862c-4fda-8417-49a3ecbc1c46.png">
+Visualization 3 - Table
 
 ### Step 2 - Critique the Visualization
 **Title:** Number of World Heritage Properties by region
@@ -25,3 +34,8 @@ The primary audience is people looking for World Heritage statistics, particular
 
 **Final thoughts and recommendations:**
 Overall, I found this method of evaluation faster to use but I was less comfortable with the degree of subjectiveness I had to use. The other evaluation process we used felt more objective and required stating concrete changes without just discussing the positives and negatives. However, the last evaluation method’s use of the graph to place it on a range of effectiveness was also disconcerting. I think overall this evaluation method was strong but could benefit from adding a measurement for Type of Visualization, removing it from the “Perceptibility” measurement, with a 1 being ineffective/diminishing data and 10 being effective/showcases data, and assessing how the type of visualization used was either an asset or detriment to the data. I would also add a measurement for Accessibility, using 1 for Inaccessible and 10 for Highly Accessible, using this to gauge the ability for many device types (mobile, tablet, desktop) or ability types (colorblind, blind, etc.) to make use of the chart.
+
+### Step 3 - Wireframe a Solution
+For this step of the process, I initially began with paper and markers but found I was struggling to make the process work well. So, I switched gears and began designing wireframes in Canva. This moved must faster and I was able to work with the information quickly. Although Canva does have an option to upload Excel spreadsheets for creating charts or graphs, I didn't do that this time. I manually worked with the data to get it to look how I wanted. In the next stage, I will be able to comment on what I found positive and negative about that process.
+
+With Canva, I created wireframes for three different charts to mirror the three that were provided by UNESCO. I took each visualization individually while trying to be aware of its connection to my other two visualizations.
