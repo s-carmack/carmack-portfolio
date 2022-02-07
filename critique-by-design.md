@@ -27,8 +27,13 @@ After exploring the internet, I stumbled upon a webpage filled with data visuali
 **Link:** [UNESCO World Heritage Centre - World Heritage List Statistics](https://whc.unesco.org/en/list/stat/#d1)
 
 **Critique by the Numbers**
+| Category         | Score     | # In stock |
+|--------------|-----------|------------|
+| Juicy Apples | 1.99      | *7*        |
+| Bananas      | **1.89**  | 5234       |
+
 Category | Score
----|---
+---------|-------
 Usefulness | 8
 Completeness | 5
 Perceptibility | 5
@@ -79,4 +84,6 @@ Respondant 1 | Female | 25-35 | Systems Engineer
 Respondant 2 | Male | 25-35 | PhD Student
 Respondant 3 | Female | 25-35 | Librarian
 
+Each person was asked a series of six open-ended questions. Responses were gathered using email, Marco Polo, and in-person interviews.
 
+After analyzing all three, the primary feedback revolved around **Visualization 1 Redesign** and the data itself.
