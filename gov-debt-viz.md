@@ -1,3 +1,5 @@
+### Assignment: Visualizing Government Debt
+
 For this project, I looked at publically accessible data available through [OECD Data](https://data.oecd.org/), specifically looking at [General Government Debt](https://data.oecd.org/gga/general-government-debt.htm). This data set shares the general goverment debt-to-Gross Domestic Products ratio, more easilty called the **Debt-to-GDP Ratio**. According the OECD Data, this ratio is an important indicator of a government's financial sustainability. What the ratio actually measures is the general government's total gross debt as a percentage of the GDP.
 
 I initially viewed the information through the OECD portal, seeing the **column** or **bar graph** below. This graph visualized a specific year, in this case 2020, of ratios and compared them from lowest to highest among nations. While it was easy to see the range of ratios and track who had high and low scores, it was more difficult to locate specific countries due to the organization method at the bottom. 
