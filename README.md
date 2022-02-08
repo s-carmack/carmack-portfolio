@@ -32,6 +32,9 @@ Although I enjoyed the original bar graph, I wanted to see if there was a way to
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/8557980"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+### Assignment 3 & 4: Critique by Design
+Access the assignment on the [Assignment 3 & 4](https://s-carmack.github.io/carmack-portfolio/critique-by-design.html) page.
+
 ## Final Project
 ### Part 1
 ### Part 2
