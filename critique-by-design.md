@@ -64,9 +64,9 @@ I think overall this evaluation method was strong but could benefit from adding 
 ### Step 3 - Wireframe a Solution
 For this step of the process, I initially began with paper and markers but found I was struggling to make the process work well. So, I switched gears and began designing wireframes in Canva. This moved must faster and I was able to work with the information quickly. Although Canva does have an option to upload Excel spreadsheets for creating charts or graphs, I didn't do that this time. I manually worked with the data to get it to look how I wanted. In the next stage, I will be able to comment on what I found positive and negative about that process.
 
-With Canva, I created wireframes for three different charts to mirror the three that were provided by UNESCO. I took each visualization individually while trying to be aware of its connection to my other two visualizations.
+With Canva, I created wireframes for three different charts to mirror the three that were provided by UNESCO. I took each visualization individually while trying to be aware of its connection to my other two visualizations. Part of this was by intentionally selecting colors that would coordinate but not duplicate between categories. For Visualization 1, I selected a warm palette, choosing two warm colors for the Natural and Cultural categories and then combining them for the Mixed category, trying to show that idea even in the color selection. I also elected to use blues for the regions when discussing them by percentages and quantities in Visualizations 2 and 3. I did this to try and show that there was no hierarchy, which warm tones can often convey. Also, I wanted them to be harmonious with the warm colors but not too similar as to cause confusions.
 
-At the tope of the redesigned visualizations, I had an overall header for the set with a subtitle and then the three visualizations followed. The entire piece that I sent to my respondants can be found as a pdf here:
+At the top of the redesigned visualizations, I had an overall header for the set with a subtitle and then the three visualizations followed. The entire piece that I sent to my respondants can be found as a pdf here:
 [Region by Region World Heritage Properties (1).pdf](https://github.com/s-carmack/carmack-portfolio/files/8015886/Region.by.Region.World.Heritage.Properties.1.pdf)
 
 
@@ -105,17 +105,30 @@ Responses were gathered using email, Marco Polo, and in-person interviews.
 
 After analyzing all three, the primary feedback for change revolved around the **Visualization 1 Redesign** and then the data itself.
 
-Respondant 1 said: "Graph #1 shows a “total” icon which seems redundant. And, there’s no definition of what type of data points are being used (i.e. not a % since over 100) what is each point based off? What does the number mean for each property section?"
+**Respondant 1:** "Graph #1 shows a “total” icon which seems redundant. And, there’s no definition of what type of data points are being used (i.e. not a % since over 100) what is each point based off? What does the number mean for each property section?"
 
-Respondant 2 echoed that, saying: "At first, it was hard to figure out what was being talked about. The “total” number in graph 1 was tough to read. And I want more  clarification on what the numbers represented; specifically, wanting more visual or written interpretation of what the numbers were representing."
+**Respondant 2:** "At first, it was hard to figure out what was being talked about. The “total” number in graph 1 was tough to read. And I want more  clarification on what the numbers represented; specifically, wanting more visual or written interpretation of what the numbers were representing."
 
-Regarding the data itself, Respondant 2 and Respondant 3 both stated that they found the way that UNESCO subdivided regions was highly biased and told an unfair story about who was dominating the World Heritage Properties. When asked if they had suggestions for how to better convey that it was UNESCO putting forth the data, they recommended adding in sources and citations for the graphs. Otherwise, they didn't have any ideas.
+Regarding the data itself, Respondant 2 stated that they found the way that UNESCO subdivided regions was highly biased and told an unfair story about who was dominating the World Heritage Properties. When asked if they had suggestions for how to better convey that it was UNESCO putting forth the data, they recommended adding in sources and citations for the graphs. Otherwise, they didn't have any ideas.
 
-Additional feedback was generally positive. The most common notes regarded positive reactions to the color schemes and their coordination. There was also a positive response for the font selection and progression of the visualizations.
+Additional feedback was generally positive. The most common notes regarded positive reactions to the color schemes and their coordination.
 
+**Respondant 1:** Nice clean, sharp colors, not too many.
+
+**Respondant 2:** Colors and fonts are nice. All good representation.
+
+**Respondant 3:** I really like the color scheme! The colors really blended and then contrasted each other really well. It drew me in.
+
+And the respondants felt the visualizations worked together and separately.
+
+**Respondant 1:** worked well both as independent and as a cumulative. 
+
+**Respondant 2:** They do visually.
+
+**Respondant 3:** I thought they flowed well from the top to the bottom. And then going to zoom in on one region and then compare them.
 
 ### Step 5 - Build Your Solution
-To begin redesigning, I started with trying to figure out which tools we've used that would support my basic initial designs. I ended up using both Flourish and Tableau for building the different visualizations with varying success. I also focused on simplifying Visualization 1 Redesign to minimize the clutter since the numbers were confusing to two respondants.
+To begin redesigning, I started with trying to figure out which tools we've used that would support my basic initial designs. I ended up using both Flourish and Tableau for building the different visualizations with varying success. I also focused on simplifying Visualization 1 Redesign to minimize the clutter since the numbers were confusing to two respondants and rewording the title to convey clearer meaning.
 
 I found this part of the process the most frustrating of all. When using Canva for wireframing, I was able to get a much clearer way of designing and get details in specific locations. But, when trying to translate those into Tableau or Flourish, I found I was limited by the software and, more realistically, my understanding of how to use it. I spent several hours on each of those individual graphs and searching for ways to accomplish what I was hoping to do but I was not able to fully realize what I had envisioned using the tools. I was able to identify certain ways of using the tools to finalize different aspects of the redesigns, such as simplifying the graphs. I was also able to manipulate the data better this time around. What this shows me is that it takes a tremendous amount of time using the tools to get to the right place and not just having good ideas or knowledge on what kind of chart would look best.
 
