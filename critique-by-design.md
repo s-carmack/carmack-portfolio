@@ -119,6 +119,10 @@ To begin redesigning, I started with trying to figure out which tools we've used
 
 I found this part of the process the most frustrating of all. When using Canva for wireframing, I was able to get a much clearer way of designing and get details in specific locations. But, when trying to translate those into Tableau or Flourish, I found I was limited by the software and, more realistically, my understanding of how to use it. I spent several hours on each of those individual graphs and searching for ways to accomplish what I was hoping to do but I was not able to fully realize what I had envisioned using the tools. I was able to identify certain ways of using the tools to finalize different aspects of the redesigns, such as simplifying the graphs. I was also able to manipulate the data better this time around. What this shows me is that it takes a tremendous amount of time using the tools to get to the right place and not just having good ideas or knowledge on what kind of chart would look best.
 
+Here is a pdf of how I might try to completely redesign the set as a complete set: [Region by Region World Heritage Properties (2).pdf](https://github.com/s-carmack/carmack-portfolio/files/8020212/Region.by.Region.World.Heritage.Properties.2.pdf)
+
+Below are each of the visualizations redone using Flourish or Tableau.
+
 ##### Visualization 1 Redesign 2.0
 <div class="flourish-embed flourish-chart" data-src="visualisation/8620996"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
