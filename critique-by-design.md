@@ -105,13 +105,19 @@ Responses were gathered using email, Marco Polo, and in-person interviews.
 
 After analyzing all three, the primary feedback for change revolved around the **Visualization 1 Redesign** and then the data itself.
 
-Respondant 1 said:
+Respondant 1 said: "Graph #1 shows a “total” icon which seems redundant. And, there’s no definition of what type of data points are being used (i.e. not a % since over 100) what is each point based off? What does the number mean for each property section?"
+
+Respondant 2 echoed that, saying: "At first, it was hard to figure out what was being talked about. The “total” number in graph 1 was tough to read. And I want more  clarification on what the numbers represented; specifically, wanting more visual or written interpretation of what the numbers were representing."
+
+Regarding the data itself, Respondant 2 and Respondant 3 both stated that they found the way that UNESCO subdivided regions was highly biased and told an unfair story about who was dominating the World Heritage Properties. When asked if they had suggestions for how to better convey that it was UNESCO putting forth the data, they recommended adding in sources and citations for the graphs. Otherwise, they didn't have any ideas.
 
 Additional feedback was generally positive. The most common notes regarded positive reactions to the color schemes and their coordination. There was also a positive response for the font selection and progression of the visualizations.
 
 
 ### Step 5 - Build Your Solution
-To begin redesigning, I started with trying to figure out which tools we've used that would support my basic initial designs. I ended up using both Flourish and Tableau for building the different visualizations with varying success.
+To begin redesigning, I started with trying to figure out which tools we've used that would support my basic initial designs. I ended up using both Flourish and Tableau for building the different visualizations with varying success. I also focused on simplifying Visualization 1 Redesign to minimize the clutter since the numbers were confusing to two respondants.
+
+I found this part of the process the most frustrating of all. When using Canva for wireframing, I was able to get a much clearer way of designing. But, when trying to translate those into Tableau or Flourish, I found I was limited by the software and my understanding of how to use it. I spent several hours on each of those individual graphs and I was not able to fully realize what I had envisioned using the tools. Unfortunately, it made me want 
 
 ##### Visualization 1 Redesign 2.0
 <div class="flourish-embed flourish-chart" data-src="visualisation/8620996"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
