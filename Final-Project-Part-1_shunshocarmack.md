@@ -25,8 +25,14 @@ Diversity in U.S. Children's Books is Not Reflective of the Nation's Population.
 ### Initial Sketches
 ##### Story Mapping Concept
 
+##### Individual Works
+Each concept sketch is a broad overview of what I think the data will show and the order in which I think I want to build the story. Each individual visualziation is numbered, 1-11.
 
-##### 
+![IMG-7927](https://user-images.githubusercontent.com/97995850/153727325-1baddf59-cbf0-43d5-867c-fb410aa2dc5d.jpg)
+![IMG-7929](https://user-images.githubusercontent.com/97995850/153727330-3fd8e9d0-eb62-4a0e-9eba-3255392a72e5.jpg)
+![IMG-7930](https://user-images.githubusercontent.com/97995850/153727335-cd6b9f84-0660-4ae8-adff-556acd49ed46.jpg)
+![IMG-7931](https://user-images.githubusercontent.com/97995850/153727342-d4001fd4-b3b7-44fa-b1c4-e065be428737.jpg)
+
 
 ### Data Sources
 ##### Data Sources
