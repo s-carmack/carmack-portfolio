@@ -25,5 +25,6 @@ Access the assignment on the [Assignment 3 & 4](https://s-carmack.github.io/carm
 
 ## Final Project
 ### Part 1
+Access the Final Project [Part 1](https://s-carmack.github.io/carmack-portfolio/Final-Project-Part-1_shunshocarmack.html) through the link.
 ### Part 2
 ### Part 3
