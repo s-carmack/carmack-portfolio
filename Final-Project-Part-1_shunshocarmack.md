@@ -1,12 +1,22 @@
-### Final Project, Part 1
+## Final Project, Part 1
 
-#### Outline
-A high-level summary of your project.  This should be a sentence or two that describes what you're interested in showing with your final project.
+### Outline
+##### High-level Project Summary
+Diversity in U.S. Children's Books is Not Reflective of the Nation's Population.
 
-A project structure that outlines the major elements of your story.  Chapter 8
+##### Project Structure
+Set-Up: Current state of diversity in Children's Books published in the United States
+Conflict: The breakdown of representation in Children's Books published in the United States do not reflect the population demographics of the nation
+Conflict, Zoom Out: U.S. Population demographics Now and Projected Minority-Majority of the Future
+Conflict, Zoom Out: Improving Children's Books representation between years
+Conflict, Zoom In: Improvement rate between representation doesn't match the rate in population shift
+Problem: This matters because the understanding of diversity is shown to impact the comfort people have with others and increases acceptance, decreases bigotry, etc.
+Resolution: Increasing diverse representation with Children's Books involves the publishers, the providers, and the readers
 
-#### Initial Sketches
 
-#### Data Sources
+### Initial Sketches
 
-#### Method and Medium
+
+### Data Sources
+
+### Method and Medium
