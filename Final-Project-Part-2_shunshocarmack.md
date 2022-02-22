@@ -32,7 +32,7 @@ Each person was asked a series of questions:
 
 
 #### Interview Results
-Only Respondants 1, 2, and 4 responded to the interviews.
+Only Respondants 1, 2, and 4 responded to the interviews. Each Respondant was sent the [Shorthand Preview Link](https://preview.shorthand.com/6soCIw45tC3tUNzi) and the interviews were conducted over the phone.
 
 1. Can you tell me what these visualizations are about?
 
@@ -49,7 +49,7 @@ Only Respondants 1, 2, and 4 responded to the interviews.
 
 **Respondant 2:** I think this is one of those things where the "Vote with your dollar" was compelling but should there be any data or stats with "Why Representation Matters?" section? And, maybe just cite the resources. It needs something to anchor it.
 
-**Respondant 4:** I think the story arc is off -- I would move the demographics around. And, keep the comparisons consistent. I mean, Latinx and Brown Skin aren't necessarily the same. So, don't compare those. And, the story is supposed to be about disabled main characters
+**Respondant 4:** I think the story arc is off -- I would move the demographics around. And, keep the comparisons consistent. I mean, Latinx and Brown Skin aren't necessarily the same. So, don't compare those. And, the story is supposed to be about disabled main characters. So maybe bump that up or have more disabilities stats overall at the beginning? It just seemed to be short on that information.
 
 
 3. What did you want more of?
