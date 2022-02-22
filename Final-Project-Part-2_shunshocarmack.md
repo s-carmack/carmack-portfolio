@@ -7,6 +7,9 @@ I decided to do my wireframe in Shorthand. This decision was primarily made beca
 
 The second wireframe I built can be seen [here on Shorthand](https://preview.shorthand.com/6soCIw45tC3tUNzi)
 
+![cover photo](https://user-images.githubusercontent.com/97995850/155155832-27e6c771-308e-436f-a356-06c636150c4f.jpg)
+
+
 ### User Research and Interviews
 
 My target audience is anyone who has connections to children or the book publishing world.
