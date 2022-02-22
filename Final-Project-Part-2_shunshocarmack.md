@@ -35,6 +35,6 @@ Each person was asked a series of questions:
 After collecting and collating the feedback in the previous stage, I went back through the entire Shorthand wireframe and decided on a few areas I definitely needed to revise:
 1. Making sure all sources, photo credits, and citations are included somewhere in the presentation.
 2. Separating out the data about race and presenting it in a new method.
-3. Conduct another search to see if additional data is available regarding disabilties in children's literature.
+3. Conduct another search to see if additional data is available regarding disabilties in children's literature. Particularly to add depth towards the end of the story before the "Call to Action" section.
 4. Stronger connections to resources for the "Call to Action" section -- and being sure to delineate the "Call to Action" section.
 5. Standardize use of fonts throughout. And, consider adding in an additional voice to increase the storytelling aspect.
