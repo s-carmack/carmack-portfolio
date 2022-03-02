@@ -14,7 +14,7 @@ Despite my background, my data visualization skills are woefully poor and I've s
 This course will be particularly helpful for my post-graduation plans as an assistant director dealing with community engagement and educational outreach. When the announcement becomes public, I look forward to sharing the official title and organization with you all.
 
 # Portfolio
-This section is comprised of two sections: General Assignments and Final Project. Each will have additional headings to delineate each assignment or aspect of different projects. **More coming soon -- stay posted!**
+This section is comprised of two sections: General Assignments and Final Project. Each has subheading has a link that will take you to the associated visualization project page.
 
 ## General Assignments
 ### Assignment: Visualizing Government Debt
@@ -25,6 +25,8 @@ Access the assignment on the [Assignment 3 & 4](https://s-carmack.github.io/carm
 
 ## Final Project
 ### Part 1
-Access the Final Project [Part 1](https://s-carmack.github.io/carmack-portfolio/Final-Project-Part-1_shunshocarmack.html) through the link.
+Access the [Final Project Part 1](https://s-carmack.github.io/carmack-portfolio/Final-Project-Part-1_shunshocarmack.html) through the link.
 ### Part 2
+Access the [Final Project, Part 2](https://s-carmack.github.io/carmack-portfolio/Final-Project-Part-2_shunshocarmack.html) through the link.
 ### Part 3
+Access the [Final Project, Part 3](https://s-carmack.github.io/carmack-portfolio/Final-Project-Part-3_shunshocarmack.html) through the link.
