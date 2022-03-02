@@ -30,3 +30,5 @@ Access the [Final Project Part 1](https://s-carmack.github.io/carmack-portfolio/
 Access the [Final Project, Part 2](https://s-carmack.github.io/carmack-portfolio/Final-Project-Part-2_shunshocarmack.html) through the link.
 ### Part 3
 Access the [Final Project, Part 3](https://s-carmack.github.io/carmack-portfolio/Final-Project-Part-3_shunshocarmack.html) through the link.
+### Final Project Site
+Access the Final Project created in Shorthand: [What Little Eyes Don't See: Disability Representation in U.S. Children's Media](https://carnegiemellon.shorthandstories.com/what-little-eyes-dont-see/index.html) 
