@@ -1,10 +1,12 @@
 ## Final Project, Part 3
 
-This is the final installment for the ongoing process for creating my final project.
+*This was the third and final part of a 3-part series describing the process of creating my final project.*
 
 [Please click here to access Final Project, Part 1.](https://s-carmack.github.io/carmack-portfolio/Final-Project-Part-1_shunshocarmack.html)
 
 [Please click here to access Final Project, Part 2.](https://s-carmack.github.io/carmack-portfolio/Final-Project-Part-2_shunshocarmack.html)
+
+The resulting final project created in Shorthand can be accessed here: [What Little Eyes Don't See: Disability Representation in U.S. Children's Media](https://carnegiemellon.shorthandstories.com/what-little-eyes-dont-see/index.html)
 
 ### Part 3
 Following the feedback on [Part 2](https://s-carmack.github.io/carmack-portfolio/Final-Project-Part-2_shunshocarmack.html), I took a step back from the project and considered how I might broaden the story. Although my audience thought the concept was valid, the story was short and limited in breadth. Additionally, after I reviewed the initial story arc, I found that the story was decentralized from the idea of disabilities and focused more on diversity in general, which wasn't what I wanted to focus on. Given the little data available on disabilties in children's literature, I decided to see if there was any data existing in childdren's media at large. I was able to locate a recent study done in the same time frame that discussed the level of disabilities in children's television and film. Following this, I retitled the story and reoutlined the general flow of the story to ensure that I focused on the main topic throughout.
