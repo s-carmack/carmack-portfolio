@@ -1,5 +1,13 @@
 ## Final Project, Part 1
 
+*This was the first part of a 3-part series describing the process of creating my final project.*
+
+[Please click here to access Final Project, Part 2.](https://s-carmack.github.io/carmack-portfolio/Final-Project-Part-2_shunshocarmack.html)
+
+[Please click here to access Final Project, Part 3.](https://s-carmack.github.io/carmack-portfolio/Final-Project-Part-3_shunshocarmack.html)
+
+The resulting final project created in Shorthand can be accessed here: [What Little Eyes Don't See: Disability Representation in U.S. Children's Media](https://carnegiemellon.shorthandstories.com/what-little-eyes-dont-see/index.html)
+
 ### Outline
 ##### High-level Project Summary
 Diversity in U.S. Children's Books is Not Reflective of the Nation's Population.
