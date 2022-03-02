@@ -24,6 +24,8 @@ Access the assignment on the [Assignment: Visualizing Government Debt](https://s
 Access the assignment on the [Assignment 3 & 4](https://s-carmack.github.io/carmack-portfolio/critique-by-design.html) page.
 
 ## Final Project
+*Parts 1-3 show the process of creation for my final project for this class. To see the final project, click the link listed under the subheading Final Project Site*
+
 ### Part 1
 Access the [Final Project Part 1](https://s-carmack.github.io/carmack-portfolio/Final-Project-Part-1_shunshocarmack.html) through the link.
 ### Part 2
