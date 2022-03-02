@@ -34,13 +34,20 @@ The final project in Shorthand can be found here: [What Little Eyes Don't See: D
 
 
 ##### Sources
-Here is a list of works I used for the final project. These are also included in the Shorthand project.
+Here is a list of works I used for the final project. These are also included on the Shorthand final project site.
 
 “Definition of DISABILITY.” Accessed March 2, 2022. https://www.merriam-webster.com/dictionary/disability.
+
 Tyner, Madeline. “CCBlogC: The Numbers Are In: 2019 CCBC Diversity Statistics.” CCBlogC (blog), June 16, 2020. http://ccblogc.blogspot.com/2020/06/the-numbers-are-in-2019-ccbc-diversity.html.
+
 See Jane. “See Jane 2019.” Accessed March 2, 2022. https://seejane.org/research-informs-empowers/see-jane-2019/.
+
 Bureau, US Census. “Childhood Disability in the United States: 2019.” Census.gov. Accessed March 2, 2022. https://www.census.gov/library/publications/2021/acs/acsbr-006.html.
+
 “2020 Annual Disability Statistics Compendium | Annual Disability Statistics Compendium.” Accessed March 2, 2022. https://disabilitycompendium.org/compendium/2020-annual-disability-statistics-compendium.
+
 Davis, Richelle. “IDEA Section 618 Data Products: Static Files.” Datasets, December 21, 2021. https://www2.ed.gov/programs/osepidea/618-data/static-tables/index.html#partc-cc.
+
 “CDC: 1 in 4 US Adults Live with a Disability | CDC Online Newsroom | CDC,” April 10, 2019. https://www.cdc.gov/media/releases/2018/p0816-disability.html.
+
 Glossan, Megan. “Why Children Need To See Themselves Represented In Media,” May 16, 2021. https://www.moms.com/children-see-themselves-represented-media-benefits/.
