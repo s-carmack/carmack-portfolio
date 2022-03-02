@@ -33,7 +33,7 @@ The final project in Shorthand can be found here: [What Little Eyes Don't See: D
 ![coverpage](https://user-images.githubusercontent.com/97995850/156461187-819654fc-96c8-47b5-8ae1-479ff2c1478c.jpg)
 
 
-#### Sources
+#### Final Sources
 Here is a list of works I used for the final project. These are also included on the Shorthand final project site.
 
 “Definition of DISABILITY.” Accessed March 2, 2022. https://www.merriam-webster.com/dictionary/disability.
