@@ -1,5 +1,13 @@
 ## Final Project, Part 2
 
+*This was the second part of a 3-part series describing the process of creating my final project.*
+
+[Please click here to access Final Project, Part 1.](https://s-carmack.github.io/carmack-portfolio/Final-Project-Part-1_shunshocarmack.html)
+
+[Please click here to access Final Project, Part 3.](https://s-carmack.github.io/carmack-portfolio/Final-Project-Part-3_shunshocarmack.html)
+
+The resulting final project created in Shorthand can be accessed here: [What Little Eyes Don't See: Disability Representation in U.S. Children's Media](https://carnegiemellon.shorthandstories.com/what-little-eyes-dont-see/index.html)
+
 ### Outline/Wireframe
 Following my initial research and outline in [Final Project, Part 1](https://s-carmack.github.io/carmack-portfolio/Final-Project-Part-1_shunshocarmack.html) I began creating a wireframe for my project and had constructed the framework for my entire story. At that point, I began to create the graphs for the original story. Much to my dismay, I discovered that the data I had did not support the project I had initially outlined. This threw my entire project for a bit of a loop and I had to start searching for new data or new angles for my data. After searching for a couple of hours, I was able to locate a different facet of the data regarding diversity in U.S. Published Children's Books. The data was from the same organization, [CCBC](https://ccbc.education.wisc.edu/) but it was from a [blog post](http://ccblogc.blogspot.com/2020/06/the-numbers-are-in-2019-ccbc-diversity.html) during the pandemic. After sorting through the data, I found a data point that was not located throughout the rest of their website discussing the representation of disabilities among main characters in children's books. Jumping off of that, I quickly begain to redesign a story, scrapping all of the visualizations I had created up until that point. This took additional research to find data revolving around disabilties in the United States.
 
